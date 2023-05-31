@@ -11,7 +11,6 @@ project(dlib_project)
 #############################################################################
 
 
-set(DLIB_NO_GUI_SUPPORT OFF)
 
 
 get_directory_property(has_parent PARENT_DIRECTORY)
